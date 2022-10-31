@@ -4,4 +4,4 @@ This is a simple stock price app that shows the stock closing price and volume o
 
 
 
-Launch the web app : 
+
